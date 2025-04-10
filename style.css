@@ -1,0 +1,73 @@
+text {
+pointer-events: none; 
+}  
+    
+.graph {
+width: 100%;
+height: 74vh;
+background-color: #f9f9f9;
+font-size: 12px;
+fill: black;
+}
+
+/* Общий контейнер */
+.container {
+  gap: 10px; /* Расстояние между инпутом и кнопкой */
+  padding-bottom: 20px;
+  max-width: 90%; /* Ограничение ширины контейнера */
+  box-sizing: border-box; /* Для корректных отступов */
+}
+
+/* Поле ввода */
+.input-text {
+  padding: 8px 20px;
+  font-size: 16px;
+  width: 100%; /* Занимает доступное пространство */
+  max-width: 300px; /* Максимальная ширина */
+  border: 2px solid #333;
+  border-radius: 25px;
+  outline: none;
+  transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+.input-text:focus {
+  border-color: #435345;
+  box-shadow: 0 0 5px rgba(72, 197, 85, 0.5);
+}
+
+/* Кнопка */
+.button-next {
+  background-color: #333;
+  border: none;
+  color: #64b5f6;
+  padding: 10px 15px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 25px;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.button-next:hover {
+  background-color: #555; /* Эффект при наведении */
+  transform: scale(1.05); /* Легкое увеличение */
+}
+
+
+.button-next:hover {
+background-color: #64b5f6; 
+transform: scale(1.05); 
+}
+
+.button-next:active {
+transform: scale(0.95); 
+}
+
+.data-table th, .data-table td {
+border: 1px solid #ddd;
+padding: 8px;
+text-align: left;
+}
+  
+.data-table td:nth-child(2), .data-table td:nth-child(3) {
+  width: 40%; /* Равномерно делим оставшееся место */
+}

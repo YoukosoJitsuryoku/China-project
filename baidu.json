@@ -1,0 +1,8154 @@
+{
+  "attributes": {
+    "creator": "Gephi 0.10.1"
+  },
+  "options": {
+    "multi": false,
+    "allowSelfLoops": true,
+    "type": "undirected"
+  },
+  "nodes": [
+    {
+      "key": "Ding Xuedong",
+      "attributes": {
+        "label": "Ding Xuedong",
+        "x": -416.03903,
+        "y": 217.47275,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Shi Yaobin",
+      "attributes": {
+        "label": "Shi Yaobin",
+        "x": 402.09366,
+        "y": -301.40994,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Meng Dong",
+      "attributes": {
+        "label": "Meng Dong",
+        "x": -387.45602,
+        "y": 68.9822,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Hu Jinglin",
+      "attributes": {
+        "label": "Hu Jinglin",
+        "x": 75.35245,
+        "y": -117.497536,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Ding Xuexiang",
+      "attributes": {
+        "label": "Ding Xuexiang",
+        "x": -285.75052,
+        "y": 55.330833,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Qu Qingshan",
+      "attributes": {
+        "label": "Qu Qingshan",
+        "x": 64.12076,
+        "y": -163.41153,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Hu Chunhua",
+      "attributes": {
+        "label": "Hu Chunhua",
+        "x": 293.3127,
+        "y": 320.50882,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Xi Jinping",
+      "attributes": {
+        "label": "Xi Jinping",
+        "x": 317.74026,
+        "y": 205.68472,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wen Jiabao",
+      "attributes": {
+        "label": "Wen Jiabao",
+        "x": -285.1721,
+        "y": 203.84299,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Ma Xingrui",
+      "attributes": {
+        "label": "Ma Xingrui",
+        "x": 473.749,
+        "y": -222.81522,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhang Qingwei",
+      "attributes": {
+        "label": "Zhang Qingwei",
+        "x": -283.54562,
+        "y": 123.35342,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Xu Dazhe",
+      "attributes": {
+        "label": "Xu Dazhe",
+        "x": 189.45206,
+        "y": -195.03006,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Kai",
+      "attributes": {
+        "label": "Wang Kai",
+        "x": -127.3107,
+        "y": -448.55124,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Lin Wu",
+      "attributes": {
+        "label": "Lin Wu",
+        "x": -441.69818,
+        "y": 350.134,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Hao",
+      "attributes": {
+        "label": "Wang Hao",
+        "x": -186.8447,
+        "y": 437.9727,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhang Yupu",
+      "attributes": {
+        "label": "Zhang Yupu",
+        "x": -284.63394,
+        "y": -459.12473,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Yi",
+      "attributes": {
+        "label": "Wang Yi",
+        "x": 22.32474,
+        "y": 163.15018,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Li Shulei",
+      "attributes": {
+        "label": "Li Shulei",
+        "x": -372.236,
+        "y": -227.90573,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Li Hongzhong",
+      "attributes": {
+        "label": "Li Hongzhong",
+        "x": -44.66916,
+        "y": -138.22562,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Cai Qi",
+      "attributes": {
+        "label": "Cai Qi",
+        "x": 238.8021,
+        "y": -485.35,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Xiaohong",
+      "attributes": {
+        "label": "Wang Xiaohong",
+        "x": -107.00824,
+        "y": -249.98964,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Liu Wei",
+      "attributes": {
+        "label": "Liu Wei",
+        "x": -411.3574,
+        "y": -415.10925,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Guanghua",
+      "attributes": {
+        "label": "Wang Guanghua",
+        "x": 428.90073,
+        "y": -92.51545,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Liu Guohong",
+      "attributes": {
+        "label": "Liu Guohong",
+        "x": 269.6901,
+        "y": 436.9899,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Zhengpu",
+      "attributes": {
+        "label": "Wang Zhengpu",
+        "x": -267.58936,
+        "y": -180.13455,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Tang Renjian",
+      "attributes": {
+        "label": "Tang Renjian",
+        "x": -408.518,
+        "y": 283.782,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wu Hongyao",
+      "attributes": {
+        "label": "Wu Hongyao",
+        "x": -236.42944,
+        "y": -129.06915,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Weizhong",
+      "attributes": {
+        "label": "Wang Weizhong",
+        "x": 127.72122,
+        "y": -373.7931,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Zhigang",
+      "attributes": {
+        "label": "Wang Zhigang",
+        "x": 429.545,
+        "y": -111.843575,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Huning",
+      "attributes": {
+        "label": "Wang Huning",
+        "x": -102.80966,
+        "y": 77.13509,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Meng Jianzhu",
+      "attributes": {
+        "label": "Meng Jianzhu",
+        "x": 266.77597,
+        "y": -207.85107,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Li Qiang",
+      "attributes": {
+        "label": "Li Qiang",
+        "x": 290.6384,
+        "y": 202.26114,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhao Leji",
+      "attributes": {
+        "label": "Zhao Leji",
+        "x": -390.87653,
+        "y": 377.78647,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Junzheng",
+      "attributes": {
+        "label": "Wang Junzheng",
+        "x": -2.6668987,
+        "y": 468.91556,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Erken Tuniyazi",
+      "attributes": {
+        "label": "Erken Tuniyazi",
+        "x": 359.4456,
+        "y": 263.71774,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Lixia",
+      "attributes": {
+        "label": "Wang Lixia",
+        "x": -392.17786,
+        "y": 293.06052,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhang Jianmin",
+      "attributes": {
+        "label": "Zhang Jianmin",
+        "x": 420.55826,
+        "y": 86.91061,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Menghui",
+      "attributes": {
+        "label": "Wang Menghui",
+        "x": 273.55026,
+        "y": -394.6017,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Ni Hong",
+      "attributes": {
+        "label": "Ni Hong",
+        "x": -438.76096,
+        "y": 90.230064,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Mao Weiming",
+      "attributes": {
+        "label": "Mao Weiming",
+        "x": -210.67188,
+        "y": 319.43478,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wu Xiaojun",
+      "attributes": {
+        "label": "Wu Xiaojun",
+        "x": -6.0832195,
+        "y": 353.56393,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Yin Li",
+      "attributes": {
+        "label": "Yin Li",
+        "x": -268.7467,
+        "y": -422.49356,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Zhiyong",
+      "attributes": {
+        "label": "Wang Zhiyong",
+        "x": 222.91641,
+        "y": 52.80465,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Lu Jiang",
+      "attributes": {
+        "label": "Lu Jiang",
+        "x": -169.46753,
+        "y": -324.80966,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Bartel",
+      "attributes": {
+        "label": "Bartel",
+        "x": -214.39728,
+        "y": 296.03403,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Guo Shuqing",
+      "attributes": {
+        "label": "Guo Shuqing",
+        "x": -407.24197,
+        "y": 120.18374,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Bayin Chaolu",
+      "attributes": {
+        "label": "Bayin Chaolu",
+        "x": 353.4954,
+        "y": 282.54605,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Qiu Xueqiang",
+      "attributes": {
+        "label": "Qiu Xueqiang",
+        "x": 282.54153,
+        "y": 368.65164,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Chen Lei",
+      "attributes": {
+        "label": "Chen Lei",
+        "x": 286.40323,
+        "y": -242.11542,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Huang Shuxian",
+      "attributes": {
+        "label": "Huang Shuxian",
+        "x": -214.98996,
+        "y": 400.20633,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhang Jinan",
+      "attributes": {
+        "label": "Zhang Jinan",
+        "x": 139.85196,
+        "y": -3.1418834,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Shang Fulin",
+      "attributes": {
+        "label": "Shang Fulin",
+        "x": -471.47836,
+        "y": 442.09567,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Gou Zhongwen",
+      "attributes": {
+        "label": "Gou Zhongwen",
+        "x": -185.44247,
+        "y": -163.46384,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Ning Jizhe",
+      "attributes": {
+        "label": "Ning Jizhe",
+        "x": -392.9417,
+        "y": -166.1582,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Xiao Kaiti Yiming",
+      "attributes": {
+        "label": "Xiao Kaiti Yiming",
+        "x": 6.42148,
+        "y": -397.48138,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Shi Taifeng",
+      "attributes": {
+        "label": "Shi Taifeng",
+        "x": 476.106,
+        "y": 235.48605,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Chen Baosheng",
+      "attributes": {
+        "label": "Chen Baosheng",
+        "x": 366.50418,
+        "y": 124.31014,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Ye Jianchun",
+      "attributes": {
+        "label": "Ye Jianchun",
+        "x": 112.43381,
+        "y": 125.75942,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhu Chengqing",
+      "attributes": {
+        "label": "Zhu Chengqing",
+        "x": 312.65585,
+        "y": 419.41934,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Feng Fei",
+      "attributes": {
+        "label": "Feng Fei",
+        "x": 326.03415,
+        "y": -189.08786,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Ren Zhenhe",
+      "attributes": {
+        "label": "Ren Zhenhe",
+        "x": -252.03723,
+        "y": 40.84243,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Liu Jianchao",
+      "attributes": {
+        "label": "Liu Jianchao",
+        "x": -8.410612,
+        "y": -29.399849,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Meng Xiangfeng",
+      "attributes": {
+        "label": "Meng Xiangfeng",
+        "x": 35.893646,
+        "y": -471.12027,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Huang Kunming",
+      "attributes": {
+        "label": "Huang Kunming",
+        "x": 327.18063,
+        "y": 104.140526,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Yang Jiechi",
+      "attributes": {
+        "label": "Yang Jiechi",
+        "x": 458.00583,
+        "y": -114.22712,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Yan Jinhai",
+      "attributes": {
+        "label": "Yan Jinhai",
+        "x": -10.443785,
+        "y": 108.610985,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Liu Ning",
+      "attributes": {
+        "label": "Liu Ning",
+        "x": 37.298737,
+        "y": 500.43893,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Liu Xiaoming",
+      "attributes": {
+        "label": "Liu Xiaoming",
+        "x": -321.87082,
+        "y": -380.31577,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Wei",
+      "attributes": {
+        "label": "Wang Wei",
+        "x": 48.778595,
+        "y": 490.61722,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Huang Ming",
+      "attributes": {
+        "label": "Huang Ming",
+        "x": 143.97452,
+        "y": -323.24948,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Song, Yuan and Ming",
+      "attributes": {
+        "label": "Song, Yuan and Ming",
+        "x": -241.47583,
+        "y": 1.0337758,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Li Xiaopeng",
+      "attributes": {
+        "label": "Li Xiaopeng",
+        "x": -14.551481,
+        "y": -264.2036,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Liu Guozhong",
+      "attributes": {
+        "label": "Liu Guozhong",
+        "x": -66.47894,
+        "y": -401.273,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Chen Min\u0027er",
+      "attributes": {
+        "label": "Chen Min\u0027er",
+        "x": 378.65384,
+        "y": 46.672325,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhao Yide",
+      "attributes": {
+        "label": "Zhao Yide",
+        "x": 446.7573,
+        "y": -459.5325,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Liu Jinguo",
+      "attributes": {
+        "label": "Liu Jinguo",
+        "x": -61.17386,
+        "y": -64.20554,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Guo Shengkun",
+      "attributes": {
+        "label": "Guo Shengkun",
+        "x": -134.44965,
+        "y": 352.2441,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Yang Xiaochao",
+      "attributes": {
+        "label": "Yang Xiaochao",
+        "x": 237.81906,
+        "y": -409.0084,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Liu Junchen",
+      "attributes": {
+        "label": "Liu Junchen",
+        "x": 255.8027,
+        "y": -142.92325,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Li Ning",
+      "attributes": {
+        "label": "Li Ning",
+        "x": 113.21597,
+        "y": -467.87888,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wu Zeng",
+      "attributes": {
+        "label": "Wu Zeng",
+        "x": -439.14194,
+        "y": -485.0434,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Xu Qin",
+      "attributes": {
+        "label": "Xu Qin",
+        "x": -203.8009,
+        "y": 69.24203,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Liu Sushe",
+      "attributes": {
+        "label": "Liu Sushe",
+        "x": -179.14117,
+        "y": -302.49753,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Guo Lanfeng",
+      "attributes": {
+        "label": "Guo Lanfeng",
+        "x": 58.15689,
+        "y": -300.45154,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wu Hao",
+      "attributes": {
+        "label": "Wu Hao",
+        "x": 186.9802,
+        "y": 309.96133,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Xu Kunlin",
+      "attributes": {
+        "label": "Xu Kunlin",
+        "x": 30.113985,
+        "y": -425.07132,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Sun Jinlong",
+      "attributes": {
+        "label": "Sun Jinlong",
+        "x": 154.64468,
+        "y": -5.5290294,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Yang Jing",
+      "attributes": {
+        "label": "Yang Jing",
+        "x": 84.41751,
+        "y": -116.06861,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Duan Yijun",
+      "attributes": {
+        "label": "Duan Yijun",
+        "x": -309.20505,
+        "y": 1.0399404,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Sun Shoushan",
+      "attributes": {
+        "label": "Sun Shoushan",
+        "x": 184.7167,
+        "y": 235.08328,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhao Shi",
+      "attributes": {
+        "label": "Zhao Shi",
+        "x": -37.467163,
+        "y": -303.5085,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhou Qiang",
+      "attributes": {
+        "label": "Zhou Qiang",
+        "x": 408.12393,
+        "y": -97.083565,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Sun Shaocheng",
+      "attributes": {
+        "label": "Sun Shaocheng",
+        "x": 187.90494,
+        "y": -403.34543,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Li Liguo",
+      "attributes": {
+        "label": "Li Liguo",
+        "x": -77.45407,
+        "y": 103.7286,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Yin Hejun",
+      "attributes": {
+        "label": "Yin Hejun",
+        "x": -275.65457,
+        "y": -246.62341,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Deng Xiaogang",
+      "attributes": {
+        "label": "Deng Xiaogang",
+        "x": -437.47296,
+        "y": 305.0128,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Li Yi",
+      "attributes": {
+        "label": "Li Yi",
+        "x": -113.73938,
+        "y": 305.4695,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhang Yunchuan",
+      "attributes": {
+        "label": "Zhang Yunchuan",
+        "x": 288.54654,
+        "y": -59.34269,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Li Xi",
+      "attributes": {
+        "label": "Li Xi",
+        "x": 140.46829,
+        "y": 11.491539,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Weng Jieming",
+      "attributes": {
+        "label": "Weng Jieming",
+        "x": 237.56473,
+        "y": -196.56909,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Li Ganjie",
+      "attributes": {
+        "label": "Li Ganjie",
+        "x": 266.6799,
+        "y": -377.6951,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Chen Jining",
+      "attributes": {
+        "label": "Chen Jining",
+        "x": -223.28699,
+        "y": -183.06787,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Pan Yue",
+      "attributes": {
+        "label": "Pan Yue",
+        "x": -210.05902,
+        "y": 22.639,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Huang Runqiu",
+      "attributes": {
+        "label": "Huang Runqiu",
+        "x": -42.624084,
+        "y": -148.90424,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Fan Weiping",
+      "attributes": {
+        "label": "Fan Weiping",
+        "x": -507.0781,
+        "y": 173.4288,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Li Guoying",
+      "attributes": {
+        "label": "Li Guoying",
+        "x": 33.513092,
+        "y": -261.48636,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Baoen",
+      "attributes": {
+        "label": "Wang Baoen",
+        "x": 98.1774,
+        "y": 20.485008,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Li Xiaohong",
+      "attributes": {
+        "label": "Li Xiaohong",
+        "x": 255.9227,
+        "y": -326.75937,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Takamatsu",
+      "attributes": {
+        "label": "Takamatsu",
+        "x": 273.96927,
+        "y": -299.90604,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Xu Guanhua",
+      "attributes": {
+        "label": "Xu Guanhua",
+        "x": -16.752714,
+        "y": -270.57852,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Xiao Jie",
+      "attributes": {
+        "label": "Xiao Jie",
+        "x": -38.0253,
+        "y": -431.5671,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Luo Shugang",
+      "attributes": {
+        "label": "Luo Shugang",
+        "x": 260.87643,
+        "y": 323.98746,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Dongwei",
+      "attributes": {
+        "label": "Wang Dongwei",
+        "x": -348.8229,
+        "y": -190.77472,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Xiao Pei",
+      "attributes": {
+        "label": "Xiao Pei",
+        "x": 410.5007,
+        "y": 65.8359,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zou Jiayi",
+      "attributes": {
+        "label": "Zou Jiayi",
+        "x": -370.5345,
+        "y": -367.14883,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Chen Xiaojiang",
+      "attributes": {
+        "label": "Chen Xiaojiang",
+        "x": -154.07584,
+        "y": -416.67923,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "He Lifeng",
+      "attributes": {
+        "label": "He Lifeng",
+        "x": 432.94284,
+        "y": 370.1647,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Hao Shuchen",
+      "attributes": {
+        "label": "Hao Shuchen",
+        "x": 284.8433,
+        "y": -397.45502,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Liu Kun",
+      "attributes": {
+        "label": "Liu Kun",
+        "x": -317.32944,
+        "y": 85.56179,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Yuan Shuhong",
+      "attributes": {
+        "label": "Yuan Shuhong",
+        "x": -238.34793,
+        "y": -239.13971,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "E Jingping",
+      "attributes": {
+        "label": "E Jingping",
+        "x": 249.55545,
+        "y": -313.6208,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Yuan Guiren",
+      "attributes": {
+        "label": "Yuan Guiren",
+        "x": 362.9352,
+        "y": 383.14456,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Luo Yuan",
+      "attributes": {
+        "label": "Luo Yuan",
+        "x": 220.30753,
+        "y": -110.50529,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Ying Yong",
+      "attributes": {
+        "label": "Ying Yong",
+        "x": 405.16147,
+        "y": -277.16043,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Xu Lin",
+      "attributes": {
+        "label": "Xu Lin",
+        "x": 450.87833,
+        "y": -178.96133,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhu Yonglei",
+      "attributes": {
+        "label": "Zhu Yonglei",
+        "x": -146.80725,
+        "y": -24.602821,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Huai Jinpeng",
+      "attributes": {
+        "label": "Huai Jinpeng",
+        "x": -411.48758,
+        "y": 471.41507,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Jin Zhuanglong",
+      "attributes": {
+        "label": "Jin Zhuanglong",
+        "x": 138.574,
+        "y": -291.30374,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhang Youxia",
+      "attributes": {
+        "label": "Zhang Youxia",
+        "x": 319.52322,
+        "y": -294.6307,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wei Fenghe",
+      "attributes": {
+        "label": "Wei Fenghe",
+        "x": 178.17209,
+        "y": 223.15524,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhang Shengmin",
+      "attributes": {
+        "label": "Zhang Shengmin",
+        "x": 257.13016,
+        "y": 35.629906,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhang Guoqing",
+      "attributes": {
+        "label": "Zhang Guoqing",
+        "x": 316.5826,
+        "y": -246.31935,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Tang Dengjie",
+      "attributes": {
+        "label": "Tang Dengjie",
+        "x": 322.171,
+        "y": -91.31046,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Lu Hao",
+      "attributes": {
+        "label": "Lu Hao",
+        "x": 119.8259,
+        "y": 356.256,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhuang Shaoqin",
+      "attributes": {
+        "label": "Zhuang Shaoqin",
+        "x": -310.77042,
+        "y": -177.42023,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wu Haiyang",
+      "attributes": {
+        "label": "Wu Haiyang",
+        "x": 433.20352,
+        "y": -216.11191,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Chen Chenzhao",
+      "attributes": {
+        "label": "Chen Chenzhao",
+        "x": 371.69577,
+        "y": 199.03415,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Chen Wenqing",
+      "attributes": {
+        "label": "Chen Wenqing",
+        "x": -117.20953,
+        "y": -350.2063,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Xiaoping",
+      "attributes": {
+        "label": "Wang Xiaoping",
+        "x": 301.5007,
+        "y": -433.77838,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Lou Yangsheng",
+      "attributes": {
+        "label": "Lou Yangsheng",
+        "x": 47.886932,
+        "y": -299.8776,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Rowan",
+      "attributes": {
+        "label": "Rowan",
+        "x": 322.74838,
+        "y": 273.27286,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Fei Dongbin",
+      "attributes": {
+        "label": "Fei Dongbin",
+        "x": -139.14157,
+        "y": 74.1755,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "He Rong",
+      "attributes": {
+        "label": "He Rong",
+        "x": -136.81131,
+        "y": -345.89005,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Yang Chuantang",
+      "attributes": {
+        "label": "Yang Chuantang",
+        "x": 401.14108,
+        "y": 16.995995,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Hou Jianguo",
+      "attributes": {
+        "label": "Hou Jianguo",
+        "x": 173.4559,
+        "y": 285.6301,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Dou Xiankang",
+      "attributes": {
+        "label": "Dou Xiankang",
+        "x": 141.79373,
+        "y": -372.6328,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Gao Xiang",
+      "attributes": {
+        "label": "Gao Xiang",
+        "x": -68.7778,
+        "y": -255.91827,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Liu Liehong",
+      "attributes": {
+        "label": "Liu Liehong",
+        "x": -120.17276,
+        "y": -126.327126,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Du Ying",
+      "attributes": {
+        "label": "Du Ying",
+        "x": -304.1077,
+        "y": 53.511803,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Huang Shouhong",
+      "attributes": {
+        "label": "Huang Shouhong",
+        "x": 35.645416,
+        "y": 290.73526,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Liang Yanshun",
+      "attributes": {
+        "label": "Liang Yanshun",
+        "x": 169.19174,
+        "y": -158.54855,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wu Hansheng",
+      "attributes": {
+        "label": "Wu Hansheng",
+        "x": -257.71875,
+        "y": 482.6613,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Liang Huiling",
+      "attributes": {
+        "label": "Liang Huiling",
+        "x": 467.9786,
+        "y": 69.545494,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Tong Jianming",
+      "attributes": {
+        "label": "Tong Jianming",
+        "x": 161.71597,
+        "y": -200.10849,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Han Jun",
+      "attributes": {
+        "label": "Han Jun",
+        "x": -352.16565,
+        "y": 90.622765,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Xiao Yaqing",
+      "attributes": {
+        "label": "Xiao Yaqing",
+        "x": -236.58218,
+        "y": 333.06143,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Cheng Lihua",
+      "attributes": {
+        "label": "Cheng Lihua",
+        "x": -470.53372,
+        "y": -301.2601,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Lan Fu An",
+      "attributes": {
+        "label": "Lan Fu An",
+        "x": -120.65912,
+        "y": -328.05405,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Ruilian",
+      "attributes": {
+        "label": "Wang Ruilian",
+        "x": 474.68063,
+        "y": -214.9768,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Yu Weiguo",
+      "attributes": {
+        "label": "Yu Weiguo",
+        "x": -290.02573,
+        "y": -285.3243,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Yu Zhongfu",
+      "attributes": {
+        "label": "Yu Zhongfu",
+        "x": 134.66208,
+        "y": 189.67087,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Ye Zanping",
+      "attributes": {
+        "label": "Ye Zanping",
+        "x": 97.63516,
+        "y": 180.57498,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhu Mingchun",
+      "attributes": {
+        "label": "Zhu Mingchun",
+        "x": 350.52115,
+        "y": 349.26718,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Li Wei",
+      "attributes": {
+        "label": "Li Wei",
+        "x": -193.9508,
+        "y": 379.38626,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wu Yirong",
+      "attributes": {
+        "label": "Wu Yirong",
+        "x": 324.54965,
+        "y": 378.59897,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wu Lixin",
+      "attributes": {
+        "label": "Wu Lixin",
+        "x": -250.63605,
+        "y": 220.31082,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wu Pute",
+      "attributes": {
+        "label": "Wu Pute",
+        "x": -99.6525,
+        "y": 297.455,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Sharhati Akhan",
+      "attributes": {
+        "label": "Sharhati Akhan",
+        "x": -400.90646,
+        "y": 406.2075,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Shen Jinlong",
+      "attributes": {
+        "label": "Shen Jinlong",
+        "x": 290.96457,
+        "y": 215.42575,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Shen Zhengchang",
+      "attributes": {
+        "label": "Shen Zhengchang",
+        "x": 464.09225,
+        "y": 251.45804,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhang Shougong",
+      "attributes": {
+        "label": "Zhang Shougong",
+        "x": -123.57526,
+        "y": 421.51285,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Chen Fuli",
+      "attributes": {
+        "label": "Chen Fuli",
+        "x": -113.49127,
+        "y": -413.5814,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Fan Xiaojun",
+      "attributes": {
+        "label": "Fan Xiaojun",
+        "x": -244.52188,
+        "y": 490.39426,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Cheng Lin",
+      "attributes": {
+        "label": "Cheng Lin",
+        "x": 225.77127,
+        "y": -232.9559,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Xie Jingrong",
+      "attributes": {
+        "label": "Xie Jingrong",
+        "x": -418.84824,
+        "y": -286.519,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "The Sixth Jamyang Lobsang Gyalme Thubten Chokyi Nyima",
+      "attributes": {
+        "label": "The Sixth Jamyang Lobsang Gyalme Thubten Chokyi Nyima",
+        "x": -386.9904,
+        "y": -104.81666,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Zhimin",
+      "attributes": {
+        "label": "Wang Zhimin",
+        "x": -164.35196,
+        "y": 390.4412,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Du Jiahao",
+      "attributes": {
+        "label": "Du Jiahao",
+        "x": 49.916595,
+        "y": -26.790382,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Li Jiheng",
+      "attributes": {
+        "label": "Li Jiheng",
+        "x": 107.36508,
+        "y": -224.3447,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Lou Qinjian",
+      "attributes": {
+        "label": "Lou Qinjian",
+        "x": -101.09241,
+        "y": -133.93732,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Lu Xinshe",
+      "attributes": {
+        "label": "Lu Xinshe",
+        "x": 121.28995,
+        "y": -235.8948,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Jiang Chaoliang",
+      "attributes": {
+        "label": "Jiang Chaoliang",
+        "x": -34.46466,
+        "y": -375.555,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Xu Shaoshi",
+      "attributes": {
+        "label": "Xu Shaoshi",
+        "x": 243.74307,
+        "y": -277.51007,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Liu Jiayi",
+      "attributes": {
+        "label": "Liu Jiayi",
+        "x": -390.52972,
+        "y": -65.17332,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Chao",
+      "attributes": {
+        "label": "Wang Chao",
+        "x": -66.572174,
+        "y": 223.89932,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Fu Ziying",
+      "attributes": {
+        "label": "Fu Ziying",
+        "x": -163.04236,
+        "y": 205.07938,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Ruihe",
+      "attributes": {
+        "label": "Wang Ruihe",
+        "x": 142.96634,
+        "y": -171.83438,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Liu Xiuwen",
+      "attributes": {
+        "label": "Liu Xiuwen",
+        "x": 125.51425,
+        "y": 68.97225,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Cheng Jing",
+      "attributes": {
+        "label": "Cheng Jing",
+        "x": -11.421202,
+        "y": 465.0527,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Ran Bo",
+      "attributes": {
+        "label": "Ran Bo",
+        "x": -189.27051,
+        "y": -101.57169,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Du Xiaoguang",
+      "attributes": {
+        "label": "Du Xiaoguang",
+        "x": 100.29074,
+        "y": 423.7314,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Tiemin",
+      "attributes": {
+        "label": "Wang Tiemin",
+        "x": 225.38681,
+        "y": 249.35233,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Nobuharu hawk",
+      "attributes": {
+        "label": "Nobuharu hawk",
+        "x": -58.97162,
+        "y": 429.52835,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Qin Shengxiang",
+      "attributes": {
+        "label": "Qin Shengxiang",
+        "x": 422.7228,
+        "y": 35.00643,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhongshan",
+      "attributes": {
+        "label": "Zhongshan",
+        "x": 40.18936,
+        "y": -202.27496,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Deng Xiuxin",
+      "attributes": {
+        "label": "Deng Xiuxin",
+        "x": 238.49356,
+        "y": -379.6766,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Luo Qi",
+      "attributes": {
+        "label": "Luo Qi",
+        "x": -474.247,
+        "y": 194.22281,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Bo Qingyun",
+      "attributes": {
+        "label": "Bo Qingyun",
+        "x": -349.38107,
+        "y": -38.788795,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Fresh iron",
+      "attributes": {
+        "label": "Fresh iron",
+        "x": -441.28058,
+        "y": 104.17849,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "White Sangseong",
+      "attributes": {
+        "label": "White Sangseong",
+        "x": -119.473145,
+        "y": 374.8173,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Lu Caixia",
+      "attributes": {
+        "label": "Lu Caixia",
+        "x": 274.6456,
+        "y": -287.74557,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Cao Hongming",
+      "attributes": {
+        "label": "Cao Hongming",
+        "x": 446.9219,
+        "y": -480.11575,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhou Min",
+      "attributes": {
+        "label": "Zhou Min",
+        "x": -380.72946,
+        "y": -468.08444,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Xu Anbiao",
+      "attributes": {
+        "label": "Xu Anbiao",
+        "x": 430.553,
+        "y": -309.25662,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Guo Zhenhua",
+      "attributes": {
+        "label": "Guo Zhenhua",
+        "x": 28.700594,
+        "y": -213.75385,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Jiang Tianliang",
+      "attributes": {
+        "label": "Jiang Tianliang",
+        "x": -462.342,
+        "y": -415.8438,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "An Zhaoqing",
+      "attributes": {
+        "label": "An Zhaoqing",
+        "x": 249.35074,
+        "y": 239.04636,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Yasuyoshi",
+      "attributes": {
+        "label": "Yasuyoshi",
+        "x": 160.113,
+        "y": 285.1279,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Hetjie",
+      "attributes": {
+        "label": "Hetjie",
+        "x": -281.18494,
+        "y": -97.49079,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Sun Jusheng",
+      "attributes": {
+        "label": "Sun Jusheng",
+        "x": -478.08273,
+        "y": 335.98166,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Huang Junhua",
+      "attributes": {
+        "label": "Huang Junhua",
+        "x": -163.93365,
+        "y": -193.4332,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Xuecheng",
+      "attributes": {
+        "label": "Wang Xuecheng",
+        "x": 174.4943,
+        "y": 402.3959,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Yubo",
+      "attributes": {
+        "label": "Wang Yubo",
+        "x": 137.861,
+        "y": -194.96594,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Hao Peng",
+      "attributes": {
+        "label": "Hao Peng",
+        "x": -442.60617,
+        "y": 230.77042,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Li Jinbin",
+      "attributes": {
+        "label": "Li Jinbin",
+        "x": -132.04843,
+        "y": 214.96744,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Li Jinghai",
+      "attributes": {
+        "label": "Li Jinghai",
+        "x": 76.32828,
+        "y": 303.20303,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Bao Xinhe",
+      "attributes": {
+        "label": "Bao Xinhe",
+        "x": -323.31314,
+        "y": -61.80567,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Yan Ke",
+      "attributes": {
+        "label": "Yan Ke",
+        "x": 167.08072,
+        "y": -160.47943,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Ding Laihang",
+      "attributes": {
+        "label": "Ding Laihang",
+        "x": 220.80502,
+        "y": -402.24066,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Qiao Yueshan",
+      "attributes": {
+        "label": "Qiao Yueshan",
+        "x": 111.671844,
+        "y": -429.7775,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhao Zenglian",
+      "attributes": {
+        "label": "Zhao Zenglian",
+        "x": 246.70267,
+        "y": 137.07089,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "He Ping",
+      "attributes": {
+        "label": "He Ping",
+        "x": -47.723938,
+        "y": 9.861168,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhou Yaning",
+      "attributes": {
+        "label": "Zhou Yaning",
+        "x": 335.18832,
+        "y": 275.82266,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Song Xiuyan",
+      "attributes": {
+        "label": "Song Xiuyan",
+        "x": -291.27286,
+        "y": -202.70609,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Shen Hongbing",
+      "attributes": {
+        "label": "Shen Hongbing",
+        "x": -138.29358,
+        "y": 194.30148,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Li Yongqi",
+      "attributes": {
+        "label": "Li Yongqi",
+        "x": 247.0563,
+        "y": 37.40908,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Lin Rui",
+      "attributes": {
+        "label": "Lin Rui",
+        "x": -116.756226,
+        "y": -173.51599,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhao Changhua",
+      "attributes": {
+        "label": "Zhao Changhua",
+        "x": -430.6428,
+        "y": 478.34036,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhou Guangquan",
+      "attributes": {
+        "label": "Zhou Guangquan",
+        "x": -398.39282,
+        "y": 182.36246,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Shouwen",
+      "attributes": {
+        "label": "Wang Shouwen",
+        "x": -0.62698174,
+        "y": -211.15234,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Yu Jianhua",
+      "attributes": {
+        "label": "Yu Jianhua",
+        "x": -227.5126,
+        "y": 191.22922,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Li Yizhong",
+      "attributes": {
+        "label": "Li Yizhong",
+        "x": -276.4467,
+        "y": 162.45956,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Qianqian",
+      "attributes": {
+        "label": "Qianqian",
+        "x": -69.2984,
+        "y": -339.81085,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wu Kongming",
+      "attributes": {
+        "label": "Wu Kongming",
+        "x": 413.9296,
+        "y": -31.867958,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Xu Xiao",
+      "attributes": {
+        "label": "Xu Xiao",
+        "x": -415.76736,
+        "y": 75.9576,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "He Junke",
+      "attributes": {
+        "label": "He Junke",
+        "x": 207.0098,
+        "y": 191.59604,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Han Wenxiu",
+      "attributes": {
+        "label": "Han Wenxiu",
+        "x": -406.84033,
+        "y": 143.04062,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Hao Junhui",
+      "attributes": {
+        "label": "Hao Junhui",
+        "x": 141.99387,
+        "y": -32.770943,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Xu Jiaai",
+      "attributes": {
+        "label": "Xu Jiaai",
+        "x": -205.69763,
+        "y": 147.68399,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Jinghan Dynasty",
+      "attributes": {
+        "label": "Jinghan Dynasty",
+        "x": 271.96365,
+        "y": -412.8007,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Shi Guangsheng",
+      "attributes": {
+        "label": "Shi Guangsheng",
+        "x": -441.6237,
+        "y": 464.51547,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Li Qun",
+      "attributes": {
+        "label": "Li Qun",
+        "x": 53.30301,
+        "y": -7.2034984,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Tan Tianxing",
+      "attributes": {
+        "label": "Tan Tianxing",
+        "x": 373.6843,
+        "y": -218.40527,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Liu Zhongli",
+      "attributes": {
+        "label": "Liu Zhongli",
+        "x": 291.45395,
+        "y": -97.723976,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Niu Maosheng",
+      "attributes": {
+        "label": "Niu Maosheng",
+        "x": -261.1549,
+        "y": -90.37553,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Tang Chengpei",
+      "attributes": {
+        "label": "Tang Chengpei",
+        "x": -124.782715,
+        "y": 410.2087,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Liu Haitao",
+      "attributes": {
+        "label": "Liu Haitao",
+        "x": -383.21323,
+        "y": 362.36392,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Li Junjie",
+      "attributes": {
+        "label": "Li Junjie",
+        "x": -232.8417,
+        "y": 105.24081,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Li Shenglin",
+      "attributes": {
+        "label": "Li Shenglin",
+        "x": 453.20987,
+        "y": 247.82724,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhao Chongjiu",
+      "attributes": {
+        "label": "Zhao Chongjiu",
+        "x": 234.2778,
+        "y": 496.33463,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Li Liangsheng",
+      "attributes": {
+        "label": "Li Liangsheng",
+        "x": 294.95053,
+        "y": 393.6362,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Tsai Tuanjie",
+      "attributes": {
+        "label": "Tsai Tuanjie",
+        "x": 100.96207,
+        "y": -188.02707,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Xu Chengguang",
+      "attributes": {
+        "label": "Xu Chengguang",
+        "x": -142.84879,
+        "y": 44.937523,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Royal Seat",
+      "attributes": {
+        "label": "Royal Seat",
+        "x": -114.673676,
+        "y": 42.474693,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Chen Min",
+      "attributes": {
+        "label": "Chen Min",
+        "x": 482.87357,
+        "y": -80.41776,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Hu Zejun",
+      "attributes": {
+        "label": "Hu Zejun",
+        "x": 40.4169,
+        "y": 432.4847,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Gao Changli",
+      "attributes": {
+        "label": "Gao Changli",
+        "x": -185.23679,
+        "y": -117.19453,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Tang Yijun",
+      "attributes": {
+        "label": "Tang Yijun",
+        "x": 163.34152,
+        "y": 498.8622,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Chen Zhili",
+      "attributes": {
+        "label": "Chen Zhili",
+        "x": -344.39563,
+        "y": 12.43322,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Feng Zhenglin",
+      "attributes": {
+        "label": "Feng Zhenglin",
+        "x": -41.755615,
+        "y": 48.608177,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Liao Xiyuan",
+      "attributes": {
+        "label": "Liao Xiyuan",
+        "x": -66.922455,
+        "y": 365.68112,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhang Xingwang",
+      "attributes": {
+        "label": "Zhang Xingwang",
+        "x": -56.850677,
+        "y": -397.8635,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Liu Huanxin",
+      "attributes": {
+        "label": "Liu Huanxin",
+        "x": -96.23932,
+        "y": 329.9008,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Li Tieying",
+      "attributes": {
+        "label": "Li Tieying",
+        "x": 376.04153,
+        "y": 89.10561,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zeng Peiyan",
+      "attributes": {
+        "label": "Zeng Peiyan",
+        "x": -267.60922,
+        "y": 42.166893,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Cao Gangchuan",
+      "attributes": {
+        "label": "Cao Gangchuan",
+        "x": -357.83737,
+        "y": -322.8067,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Liang Guanglie",
+      "attributes": {
+        "label": "Liang Guanglie",
+        "x": 364.62918,
+        "y": -3.611854,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhao Kezhi",
+      "attributes": {
+        "label": "Zhao Kezhi",
+        "x": 392.34433,
+        "y": 118.61117,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhao Jing",
+      "attributes": {
+        "label": "Zhao Jing",
+        "x": 175.05069,
+        "y": -378.3358,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Guo Tingting",
+      "attributes": {
+        "label": "Guo Tingting",
+        "x": 51.307404,
+        "y": 54.81832,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Li Fei",
+      "attributes": {
+        "label": "Li Fei",
+        "x": 216.80301,
+        "y": 311.89914,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Qin Yizhi",
+      "attributes": {
+        "label": "Qin Yizhi",
+        "x": -74.79486,
+        "y": 306.80893,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Xinzhe",
+      "attributes": {
+        "label": "Wang Xinzhe",
+        "x": 25.359102,
+        "y": 114.22164,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhang Yunming",
+      "attributes": {
+        "label": "Zhang Yunming",
+        "x": 29.290743,
+        "y": 296.51175,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Zhengwei",
+      "attributes": {
+        "label": "Wang Zhengwei",
+        "x": -163.98672,
+        "y": 42.551414,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Pu Yufei",
+      "attributes": {
+        "label": "Pu Yufei",
+        "x": -70.559204,
+        "y": 394.2543,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Tang Congyuan",
+      "attributes": {
+        "label": "Tang Congyuan",
+        "x": -236.75415,
+        "y": -227.31061,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Liu Shiyu",
+      "attributes": {
+        "label": "Liu Shiyu",
+        "x": 345.36783,
+        "y": 167.90793,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zou Tianjing",
+      "attributes": {
+        "label": "Zou Tianjing",
+        "x": -40.189728,
+        "y": 296.59952,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Li Jiaxiang",
+      "attributes": {
+        "label": "Li Jiaxiang",
+        "x": -1.2929363,
+        "y": 221.24442,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wu Shulin",
+      "attributes": {
+        "label": "Wu Shulin",
+        "x": 24.371492,
+        "y": -33.91224,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wu Aiying",
+      "attributes": {
+        "label": "Wu Aiying",
+        "x": 205.76334,
+        "y": -447.8017,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhang Jun",
+      "attributes": {
+        "label": "Zhang Jun",
+        "x": -41.248566,
+        "y": 239.87473,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Liu Zhonghua",
+      "attributes": {
+        "label": "Liu Zhonghua",
+        "x": 12.556429,
+        "y": 136.14444,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Cong Bin",
+      "attributes": {
+        "label": "Cong Bin",
+        "x": -210.68549,
+        "y": 363.09506,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Liu Peng",
+      "attributes": {
+        "label": "Liu Peng",
+        "x": 248.90408,
+        "y": -255.03757,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhu Zhixin",
+      "attributes": {
+        "label": "Zhu Zhixin",
+        "x": -438.2484,
+        "y": 154.54794,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Qiu Xiaohua",
+      "attributes": {
+        "label": "Qiu Xiaohua",
+        "x": -261.36566,
+        "y": -150.42447,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Sun Jianli",
+      "attributes": {
+        "label": "Sun Jianli",
+        "x": -205.50122,
+        "y": 54.56124,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Yan Qinghui",
+      "attributes": {
+        "label": "Yan Qinghui",
+        "x": 44.618744,
+        "y": -178.18558,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Xu Yifan",
+      "attributes": {
+        "label": "Xu Yifan",
+        "x": -366.74777,
+        "y": -404.87943,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Xiao Gang",
+      "attributes": {
+        "label": "Xiao Gang",
+        "x": -449.82816,
+        "y": -449.1292,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Jiang Jianguo",
+      "attributes": {
+        "label": "Jiang Jianguo",
+        "x": -112.48135,
+        "y": 493.95395,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Yang Guorui",
+      "attributes": {
+        "label": "Yang Guorui",
+        "x": 382.46158,
+        "y": 20.270042,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Nie Chenxi",
+      "attributes": {
+        "label": "Nie Chenxi",
+        "x": -150.1341,
+        "y": -354.448,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhang Pimin",
+      "attributes": {
+        "label": "Zhang Pimin",
+        "x": -331.07095,
+        "y": 353.2056,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Li Zijun",
+      "attributes": {
+        "label": "Li Zijun",
+        "x": 299.51657,
+        "y": 384.64267,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Li Wenzhang",
+      "attributes": {
+        "label": "Li Wenzhang",
+        "x": -115.68469,
+        "y": 327.24197,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Chen Ronghui",
+      "attributes": {
+        "label": "Chen Ronghui",
+        "x": 374.15176,
+        "y": -468.57245,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Shen Zhulin",
+      "attributes": {
+        "label": "Shen Zhulin",
+        "x": -406.2532,
+        "y": 383.80862,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhang Xin",
+      "attributes": {
+        "label": "Zhang Xin",
+        "x": 57.270905,
+        "y": -107.07221,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Zhao Gang",
+      "attributes": {
+        "label": "Zhao Gang",
+        "x": -273.56958,
+        "y": -286.43195,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Tan Guangming",
+      "attributes": {
+        "label": "Tan Guangming",
+        "x": -126.821075,
+        "y": 91.07461,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Yan Zhen",
+      "attributes": {
+        "label": "Yan Zhen",
+        "x": -375.13745,
+        "y": 85.65951,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    },
+    {
+      "key": "Wang Zhigao",
+      "attributes": {
+        "label": "Wang Zhigao",
+        "x": 7.648653,
+        "y": -184.27975,
+        "size": 10.0,
+        "color": "#000000"
+      }
+    }
+  ],
+  "links": [
+    {
+      "key": "0",
+      "source": "Ding Xuedong",
+      "target": "Shi Yaobin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "1",
+      "source": "Ding Xuedong",
+      "target": "Meng Dong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "2",
+      "source": "Ding Xuedong",
+      "target": "Hu Jinglin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "3",
+      "source": "Ding Xuedong",
+      "target": "Lan Fu An",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "4",
+      "source": "Shi Yaobin",
+      "target": "Xiao Jie",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "5",
+      "source": "Shi Yaobin",
+      "target": "Zou Jiayi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "6",
+      "source": "Shi Yaobin",
+      "target": "Ying Yong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "7",
+      "source": "Shi Yaobin",
+      "target": "Lan Fu An",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "8",
+      "source": "Shi Yaobin",
+      "target": "Meng Dong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "9",
+      "source": "Shi Yaobin",
+      "target": "Liu Wei",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "10",
+      "source": "Shi Yaobin",
+      "target": "Wang Dongwei",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "11",
+      "source": "Shi Yaobin",
+      "target": "Hu Jinglin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "12",
+      "source": "Shi Yaobin",
+      "target": "Luo Shugang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "13",
+      "source": "Shi Yaobin",
+      "target": "Liu Kun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "14",
+      "source": "Meng Dong",
+      "target": "Xiao Jie",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "15",
+      "source": "Meng Dong",
+      "target": "Lan Fu An",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "16",
+      "source": "Hu Jinglin",
+      "target": "Xiao Jie",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "17",
+      "source": "Hu Jinglin",
+      "target": "Zou Jiayi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "18",
+      "source": "Hu Jinglin",
+      "target": "Liu Kun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "19",
+      "source": "Hu Jinglin",
+      "target": "Wang Dongwei",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "20",
+      "source": "Hu Jinglin",
+      "target": "Liu Wei",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "21",
+      "source": "Ding Xuexiang",
+      "target": "Qu Qingshan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "22",
+      "source": "Ding Xuexiang",
+      "target": "Hu Chunhua",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "23",
+      "source": "Ding Xuexiang",
+      "target": "Wang Huning",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "24",
+      "source": "Qu Qingshan",
+      "target": "Meng Xiangfeng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "25",
+      "source": "Qu Qingshan",
+      "target": "Hu Chunhua",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "26",
+      "source": "Qu Qingshan",
+      "target": "Huang Kunming",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "27",
+      "source": "Qu Qingshan",
+      "target": "Yang Jiechi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "28",
+      "source": "Hu Chunhua",
+      "target": "Sun Jinlong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "29",
+      "source": "Hu Chunhua",
+      "target": "Li Qiang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "30",
+      "source": "Hu Chunhua",
+      "target": "Meng Xiangfeng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "31",
+      "source": "Hu Chunhua",
+      "target": "Bayin Chaolu",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "32",
+      "source": "Hu Chunhua",
+      "target": "Yang Chuantang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "33",
+      "source": "Hu Chunhua",
+      "target": "Weng Jieming",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "34",
+      "source": "Xi Jinping",
+      "target": "Wen Jiabao",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "35",
+      "source": "Wen Jiabao",
+      "target": "Yu Weiguo",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "36",
+      "source": "Wen Jiabao",
+      "target": "Xiao Yaqing",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "37",
+      "source": "Wen Jiabao",
+      "target": "Wu Shulin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "38",
+      "source": "Ma Xingrui",
+      "target": "Zhang Qingwei",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "39",
+      "source": "Ma Xingrui",
+      "target": "Xu Dazhe",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "40",
+      "source": "Zhang Qingwei",
+      "target": "Xu Dazhe",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "41",
+      "source": "Xu Dazhe",
+      "target": "Huai Jinpeng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "42",
+      "source": "Xu Dazhe",
+      "target": "Liu Liehong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "43",
+      "source": "Wang Kai",
+      "target": "Lin Wu",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "44",
+      "source": "Lin Wu",
+      "target": "Wang Xiaoping",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "45",
+      "source": "Lin Wu",
+      "target": "Lou Yangsheng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "46",
+      "source": "Wang Hao",
+      "target": "Zhang Yupu",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "47",
+      "source": "Wang Hao",
+      "target": "Liang Huiling",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "48",
+      "source": "Wang Hao",
+      "target": "Tang Yijun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "49",
+      "source": "Zhang Yupu",
+      "target": "White Sangseong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "50",
+      "source": "Wang Yi",
+      "target": "Li Shulei",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "51",
+      "source": "Wang Yi",
+      "target": "Li Hongzhong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "52",
+      "source": "Wang Yi",
+      "target": "Cai Qi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "53",
+      "source": "Wang Yi",
+      "target": "Chen Wenqing",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "54",
+      "source": "Li Shulei",
+      "target": "Shi Taifeng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "55",
+      "source": "Li Shulei",
+      "target": "Liu Jinguo",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "56",
+      "source": "Li Shulei",
+      "target": "Chen Baosheng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "57",
+      "source": "Li Shulei",
+      "target": "Fan Weiping",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "58",
+      "source": "Li Shulei",
+      "target": "Yang Xiaochao",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "59",
+      "source": "Li Shulei",
+      "target": "Li Hongzhong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "60",
+      "source": "Li Shulei",
+      "target": "Cai Qi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "61",
+      "source": "Li Hongzhong",
+      "target": "Li Qiang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "62",
+      "source": "Li Hongzhong",
+      "target": "Chen Wenqing",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "63",
+      "source": "Cai Qi",
+      "target": "Chen Wenqing",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "64",
+      "source": "Wang Xiaohong",
+      "target": "Liu Wei",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "65",
+      "source": "Liu Wei",
+      "target": "Wang Wei",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "66",
+      "source": "Liu Wei",
+      "target": "Huang Ming",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "67",
+      "source": "Liu Wei",
+      "target": "Song, Yuan and Ming",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "68",
+      "source": "Liu Wei",
+      "target": "Zou Jiayi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "69",
+      "source": "Liu Wei",
+      "target": "Cheng Lihua",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "70",
+      "source": "Liu Wei",
+      "target": "Liu Kun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "71",
+      "source": "Wang Guanghua",
+      "target": "Liu Guohong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "72",
+      "source": "Liu Guohong",
+      "target": "Lu Hao",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "73",
+      "source": "Liu Guohong",
+      "target": "Wu Haiyang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "74",
+      "source": "Liu Guohong",
+      "target": "Zhuang Shaoqin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "75",
+      "source": "Wang Zhengpu",
+      "target": "Tang Renjian",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "76",
+      "source": "Wang Zhengpu",
+      "target": "Wu Hongyao",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "77",
+      "source": "Tang Renjian",
+      "target": "Du Ying",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "78",
+      "source": "Wu Hongyao",
+      "target": "Liu Huanxin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "79",
+      "source": "Wang Weizhong",
+      "target": "Wang Zhigang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "80",
+      "source": "Wang Zhigang",
+      "target": "Yin Hejun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "81",
+      "source": "Wang Zhigang",
+      "target": "Hou Jianguo",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "82",
+      "source": "Wang Zhigang",
+      "target": "Liu Liehong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "83",
+      "source": "Wang Huning",
+      "target": "Meng Jianzhu",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "84",
+      "source": "Wang Huning",
+      "target": "Li Qiang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "85",
+      "source": "Wang Huning",
+      "target": "Zhao Leji",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "86",
+      "source": "Meng Jianzhu",
+      "target": "Liu Jinguo",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "87",
+      "source": "Meng Jianzhu",
+      "target": "Xiao Pei",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "88",
+      "source": "Li Qiang",
+      "target": "Li Xi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "89",
+      "source": "Li Qiang",
+      "target": "Zhao Leji",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "90",
+      "source": "Li Qiang",
+      "target": "Weng Jieming",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "91",
+      "source": "Wang Junzheng",
+      "target": "Erken Tuniyazi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "92",
+      "source": "Erken Tuniyazi",
+      "target": "Xiao Kaiti Yiming",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "93",
+      "source": "Wang Lixia",
+      "target": "Zhang Jianmin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "94",
+      "source": "Zhang Jianmin",
+      "target": "Rowan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "95",
+      "source": "Wang Menghui",
+      "target": "Ni Hong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "96",
+      "source": "Mao Weiming",
+      "target": "Wu Xiaojun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "97",
+      "source": "Yin Li",
+      "target": "Wang Zhiyong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "98",
+      "source": "Yin Li",
+      "target": "Lu Jiang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "99",
+      "source": "Bartel",
+      "target": "Guo Shuqing",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "100",
+      "source": "Bartel",
+      "target": "Bayin Chaolu",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "101",
+      "source": "Bartel",
+      "target": "Qiu Xueqiang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "102",
+      "source": "Bartel",
+      "target": "Chen Lei",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "103",
+      "source": "Bartel",
+      "target": "Huang Shuxian",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "104",
+      "source": "Bartel",
+      "target": "Zhang Jinan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "105",
+      "source": "Bartel",
+      "target": "Shang Fulin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "106",
+      "source": "Bartel",
+      "target": "Gou Zhongwen",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "107",
+      "source": "Bartel",
+      "target": "Ning Jizhe",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "108",
+      "source": "Bartel",
+      "target": "He Lifeng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "109",
+      "source": "Guo Shuqing",
+      "target": "Xu Qin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "110",
+      "source": "Guo Shuqing",
+      "target": "Han Wenxiu",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "111",
+      "source": "Guo Shuqing",
+      "target": "Guo Lanfeng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "112",
+      "source": "Bayin Chaolu",
+      "target": "Sun Jinlong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "113",
+      "source": "Bayin Chaolu",
+      "target": "Chen Min\u0027er",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "114",
+      "source": "Bayin Chaolu",
+      "target": "Zhou Qiang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "115",
+      "source": "Bayin Chaolu",
+      "target": "Duan Yijun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "116",
+      "source": "Bayin Chaolu",
+      "target": "Sun Shoushan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "117",
+      "source": "Bayin Chaolu",
+      "target": "Zhongshan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "118",
+      "source": "Bayin Chaolu",
+      "target": "Du Jiahao",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "119",
+      "source": "Bayin Chaolu",
+      "target": "Lu Xinshe",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "120",
+      "source": "Qiu Xueqiang",
+      "target": "He Lifeng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "121",
+      "source": "Qiu Xueqiang",
+      "target": "Chen Baosheng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "122",
+      "source": "Qiu Xueqiang",
+      "target": "Ning Jizhe",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "123",
+      "source": "Qiu Xueqiang",
+      "target": "Song Xiuyan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "124",
+      "source": "Qiu Xueqiang",
+      "target": "Wang Zhengwei",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "125",
+      "source": "Chen Lei",
+      "target": "He Lifeng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "126",
+      "source": "Chen Lei",
+      "target": "Song Xiuyan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "127",
+      "source": "Chen Lei",
+      "target": "Chen Baosheng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "128",
+      "source": "Chen Lei",
+      "target": "Yuan Guiren",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "129",
+      "source": "Chen Lei",
+      "target": "Shang Fulin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "130",
+      "source": "Chen Lei",
+      "target": "Ning Jizhe",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "131",
+      "source": "Chen Lei",
+      "target": "Wang Zhengwei",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "132",
+      "source": "Huang Shuxian",
+      "target": "Sun Shaocheng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "133",
+      "source": "Huang Shuxian",
+      "target": "He Lifeng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "134",
+      "source": "Huang Shuxian",
+      "target": "Tang Chengpei",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "135",
+      "source": "Huang Shuxian",
+      "target": "Chen Baosheng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "136",
+      "source": "Huang Shuxian",
+      "target": "Ning Jizhe",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "137",
+      "source": "Huang Shuxian",
+      "target": "Wang Zhengwei",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "138",
+      "source": "Zhang Jinan",
+      "target": "Song Xiuyan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "139",
+      "source": "Zhang Jinan",
+      "target": "Chen Baosheng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "140",
+      "source": "Zhang Jinan",
+      "target": "Wang Zhengwei",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "141",
+      "source": "Zhang Jinan",
+      "target": "Ning Jizhe",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "142",
+      "source": "Shang Fulin",
+      "target": "He Lifeng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "143",
+      "source": "Shang Fulin",
+      "target": "Song Xiuyan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "144",
+      "source": "Shang Fulin",
+      "target": "Chen Baosheng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "145",
+      "source": "Shang Fulin",
+      "target": "Ning Jizhe",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "146",
+      "source": "Gou Zhongwen",
+      "target": "Song Xiuyan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "147",
+      "source": "Gou Zhongwen",
+      "target": "Liu Zhongli",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "148",
+      "source": "Gou Zhongwen",
+      "target": "Chen Baosheng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "149",
+      "source": "Gou Zhongwen",
+      "target": "Hu Zejun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "150",
+      "source": "Gou Zhongwen",
+      "target": "Niu Maosheng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "151",
+      "source": "Gou Zhongwen",
+      "target": "Ning Jizhe",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "152",
+      "source": "Gou Zhongwen",
+      "target": "Feng Zhenglin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "153",
+      "source": "Ning Jizhe",
+      "target": "Huang Shouhong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "154",
+      "source": "Ning Jizhe",
+      "target": "Song Xiuyan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "155",
+      "source": "Ning Jizhe",
+      "target": "Yuan Shuhong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "156",
+      "source": "Ning Jizhe",
+      "target": "Chen Baosheng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "157",
+      "source": "Ning Jizhe",
+      "target": "Yuan Guiren",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "158",
+      "source": "Ning Jizhe",
+      "target": "Wang Zhengwei",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "159",
+      "source": "Ning Jizhe",
+      "target": "Tang Chengpei",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "160",
+      "source": "Xiao Kaiti Yiming",
+      "target": "Li Yi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "161",
+      "source": "Xiao Kaiti Yiming",
+      "target": "Zhang Yunchuan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "162",
+      "source": "Shi Taifeng",
+      "target": "Chen Baosheng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "163",
+      "source": "Chen Baosheng",
+      "target": "He Lifeng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "164",
+      "source": "Chen Baosheng",
+      "target": "Hao Shuchen",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "165",
+      "source": "Chen Baosheng",
+      "target": "Liu Kun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "166",
+      "source": "Chen Baosheng",
+      "target": "Yuan Shuhong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "167",
+      "source": "Chen Baosheng",
+      "target": "E Jingping",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "168",
+      "source": "Chen Baosheng",
+      "target": "Yuan Guiren",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "169",
+      "source": "Ye Jianchun",
+      "target": "Zhu Chengqing",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "170",
+      "source": "Feng Fei",
+      "target": "Ren Zhenhe",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "171",
+      "source": "Feng Fei",
+      "target": "Liu Jianchao",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "172",
+      "source": "Ren Zhenhe",
+      "target": "Liu Jianchao",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "173",
+      "source": "Ren Zhenhe",
+      "target": "Yan Jinhai",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "174",
+      "source": "Meng Xiangfeng",
+      "target": "Huang Kunming",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "175",
+      "source": "Huang Kunming",
+      "target": "Chen Wenqing",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "176",
+      "source": "Yang Jiechi",
+      "target": "Xiao Yaqing",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "177",
+      "source": "Yang Jiechi",
+      "target": "Chen Wenqing",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "178",
+      "source": "Yan Jinhai",
+      "target": "Deng Xiaogang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "179",
+      "source": "Liu Ning",
+      "target": "Liu Xiaoming",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "180",
+      "source": "Liu Ning",
+      "target": "Chen Xiaojiang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "181",
+      "source": "Liu Xiaoming",
+      "target": "Li Xiaopeng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "182",
+      "source": "Wang Wei",
+      "target": "Huang Ming",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "183",
+      "source": "Wang Wei",
+      "target": "Pu Yufei",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "184",
+      "source": "Huang Ming",
+      "target": "Liu Jinguo",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "185",
+      "source": "Huang Ming",
+      "target": "Guo Shengkun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "186",
+      "source": "Huang Ming",
+      "target": "Song, Yuan and Ming",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "187",
+      "source": "Huang Ming",
+      "target": "Hao Junhui",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "188",
+      "source": "Huang Ming",
+      "target": "Xu Jiaai",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "189",
+      "source": "Huang Ming",
+      "target": "Tang Congyuan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "190",
+      "source": "Li Xiaopeng",
+      "target": "Yang Chuantang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "191",
+      "source": "Li Xiaopeng",
+      "target": "Zhao Chongjiu",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "192",
+      "source": "Liu Guozhong",
+      "target": "Chen Min\u0027er",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "193",
+      "source": "Liu Guozhong",
+      "target": "Zhao Yide",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "194",
+      "source": "Liu Jinguo",
+      "target": "Guo Shengkun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "195",
+      "source": "Liu Jinguo",
+      "target": "Yang Xiaochao",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "196",
+      "source": "Guo Shengkun",
+      "target": "Xiao Yaqing",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "197",
+      "source": "Yang Xiaochao",
+      "target": "Zhao Zenglian",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "198",
+      "source": "Liu Junchen",
+      "target": "Li Ning",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "199",
+      "source": "Liu Junchen",
+      "target": "Wu Zeng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "200",
+      "source": "Li Ning",
+      "target": "Cheng Lihua",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "201",
+      "source": "Li Ning",
+      "target": "Wang Xuecheng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "202",
+      "source": "Li Ning",
+      "target": "Wang Yubo",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "203",
+      "source": "Li Ning",
+      "target": "Hao Peng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "204",
+      "source": "Wu Zeng",
+      "target": "Yu Zhongfu",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "205",
+      "source": "Wu Zeng",
+      "target": "Ye Zanping",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "206",
+      "source": "Wu Zeng",
+      "target": "Zhu Mingchun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "207",
+      "source": "Wu Zeng",
+      "target": "Liu Xiuwen",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "208",
+      "source": "Wu Zeng",
+      "target": "Wu Yirong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "209",
+      "source": "Wu Zeng",
+      "target": "Wu Lixin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "210",
+      "source": "Wu Zeng",
+      "target": "Wu Pute",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "211",
+      "source": "Wu Zeng",
+      "target": "Shen Jinlong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "212",
+      "source": "Wu Zeng",
+      "target": "Shen Zhengchang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "213",
+      "source": "Wu Zeng",
+      "target": "Zhang Shougong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "214",
+      "source": "Wu Zeng",
+      "target": "Cheng Jing",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "215",
+      "source": "Wu Zeng",
+      "target": "Fan Xiaojun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "216",
+      "source": "Wu Zeng",
+      "target": "Cheng Lin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "217",
+      "source": "Wu Zeng",
+      "target": "Xie Jingrong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "218",
+      "source": "Wu Zeng",
+      "target": "The Sixth Jamyang Lobsang Gyalme Thubten Chokyi Nyima",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "219",
+      "source": "Xu Qin",
+      "target": "Liu Sushe",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "220",
+      "source": "Xu Qin",
+      "target": "Guo Lanfeng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "221",
+      "source": "Xu Qin",
+      "target": "Wu Hao",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "222",
+      "source": "Xu Qin",
+      "target": "Tang Congyuan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "223",
+      "source": "Liu Sushe",
+      "target": "Zeng Peiyan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "224",
+      "source": "Liu Sushe",
+      "target": "Guo Lanfeng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "225",
+      "source": "Liu Sushe",
+      "target": "Zhao Chongjiu",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "226",
+      "source": "Guo Lanfeng",
+      "target": "Xu Kunlin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "227",
+      "source": "Sun Jinlong",
+      "target": "Yang Jing",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "228",
+      "source": "Sun Jinlong",
+      "target": "Duan Yijun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "229",
+      "source": "Sun Jinlong",
+      "target": "Sun Shoushan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "230",
+      "source": "Sun Jinlong",
+      "target": "Zhao Shi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "231",
+      "source": "Sun Jinlong",
+      "target": "Zhou Qiang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "232",
+      "source": "Yang Jing",
+      "target": "Zhou Qiang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "233",
+      "source": "Yang Jing",
+      "target": "Duan Yijun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "234",
+      "source": "Yang Jing",
+      "target": "Sun Shoushan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "235",
+      "source": "Yang Jing",
+      "target": "Xiao Yaqing",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "236",
+      "source": "Duan Yijun",
+      "target": "Zhao Shi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "237",
+      "source": "Duan Yijun",
+      "target": "Zhou Qiang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "238",
+      "source": "Duan Yijun",
+      "target": "Sun Shoushan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "239",
+      "source": "Sun Shoushan",
+      "target": "Zhao Shi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "240",
+      "source": "Zhao Shi",
+      "target": "Li Yi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "241",
+      "source": "Zhao Shi",
+      "target": "Zhou Qiang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "242",
+      "source": "Zhou Qiang",
+      "target": "He Rong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "243",
+      "source": "Zhou Qiang",
+      "target": "Jinghan Dynasty",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "244",
+      "source": "Sun Shaocheng",
+      "target": "Li Liguo",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "245",
+      "source": "Yin Hejun",
+      "target": "Hou Jianguo",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "246",
+      "source": "Deng Xiaogang",
+      "target": "Qin Yizhi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "247",
+      "source": "Deng Xiaogang",
+      "target": "Liu Peng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "248",
+      "source": "Li Yi",
+      "target": "Zhang Yunchuan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "249",
+      "source": "Li Yi",
+      "target": "Yan Ke",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "250",
+      "source": "Li Yi",
+      "target": "Ding Laihang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "251",
+      "source": "Weng Jieming",
+      "target": "Zhao Kezhi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "252",
+      "source": "Li Ganjie",
+      "target": "Chen Jining",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "253",
+      "source": "Li Ganjie",
+      "target": "Pan Yue",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "254",
+      "source": "Li Ganjie",
+      "target": "Huang Runqiu",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "255",
+      "source": "Chen Jining",
+      "target": "Huang Runqiu",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "256",
+      "source": "Chen Jining",
+      "target": "Pan Yue",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "257",
+      "source": "Fan Weiping",
+      "target": "Liang Yanshun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "258",
+      "source": "Li Guoying",
+      "target": "Wang Baoen",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "259",
+      "source": "Wang Baoen",
+      "target": "Li Liangsheng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "260",
+      "source": "Wang Baoen",
+      "target": "Royal Seat",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "261",
+      "source": "Li Xiaohong",
+      "target": "Takamatsu",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "262",
+      "source": "Li Xiaohong",
+      "target": "Xu Guanhua",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "263",
+      "source": "Xu Guanhua",
+      "target": "Dou Xiankang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "264",
+      "source": "Xiao Jie",
+      "target": "Luo Shugang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "265",
+      "source": "Xiao Jie",
+      "target": "Wang Dongwei",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "266",
+      "source": "Xiao Jie",
+      "target": "Liu Kun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "267",
+      "source": "Luo Shugang",
+      "target": "Hou Jianguo",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "268",
+      "source": "Luo Shugang",
+      "target": "Li Qun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "269",
+      "source": "Wang Dongwei",
+      "target": "Zou Jiayi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "270",
+      "source": "Xiao Pei",
+      "target": "Zou Jiayi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "271",
+      "source": "Xiao Pei",
+      "target": "Chen Xiaojiang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "272",
+      "source": "Zou Jiayi",
+      "target": "Liu Kun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "273",
+      "source": "Zou Jiayi",
+      "target": "Chen Xiaojiang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "274",
+      "source": "Zou Jiayi",
+      "target": "Luo Yuan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "275",
+      "source": "Zou Jiayi",
+      "target": "Cheng Lihua",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "276",
+      "source": "He Lifeng",
+      "target": "Hao Shuchen",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "277",
+      "source": "He Lifeng",
+      "target": "Liu Kun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "278",
+      "source": "He Lifeng",
+      "target": "Yuan Shuhong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "279",
+      "source": "He Lifeng",
+      "target": "E Jingping",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "280",
+      "source": "He Lifeng",
+      "target": "Yuan Guiren",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "281",
+      "source": "Hao Shuchen",
+      "target": "Liu Kun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "282",
+      "source": "Liu Kun",
+      "target": "Lan Fu An",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "283",
+      "source": "Yuan Shuhong",
+      "target": "Jiang Tianliang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "284",
+      "source": "Yuan Shuhong",
+      "target": "An Zhaoqing",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "285",
+      "source": "E Jingping",
+      "target": "Hou Jianguo",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "286",
+      "source": "E Jingping",
+      "target": "Zhongshan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "287",
+      "source": "Yuan Guiren",
+      "target": "Chen Zhili",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "288",
+      "source": "Yuan Guiren",
+      "target": "Wang Zhengwei",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "289",
+      "source": "Ying Yong",
+      "target": "Xu Lin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "290",
+      "source": "Ying Yong",
+      "target": "Zhu Yonglei",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "291",
+      "source": "Ying Yong",
+      "target": "Lu Xinshe",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "292",
+      "source": "Ying Yong",
+      "target": "Jiang Chaoliang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "293",
+      "source": "Huai Jinpeng",
+      "target": "Jin Zhuanglong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "294",
+      "source": "Jin Zhuanglong",
+      "target": "Wang Xinzhe",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "295",
+      "source": "Jin Zhuanglong",
+      "target": "Zhang Yunming",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "296",
+      "source": "Zhang Youxia",
+      "target": "Wei Fenghe",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "297",
+      "source": "Zhang Youxia",
+      "target": "Zhang Shengmin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "298",
+      "source": "Wei Fenghe",
+      "target": "Zhang Shengmin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "299",
+      "source": "Zhang Guoqing",
+      "target": "Tang Dengjie",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "300",
+      "source": "Lu Hao",
+      "target": "Zhuang Shaoqin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "301",
+      "source": "Lu Hao",
+      "target": "Wu Haiyang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "302",
+      "source": "Lu Hao",
+      "target": "Chen Chenzhao",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "303",
+      "source": "Zhuang Shaoqin",
+      "target": "Wu Haiyang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "304",
+      "source": "Wu Haiyang",
+      "target": "Chen Chenzhao",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "305",
+      "source": "Wang Xiaoping",
+      "target": "Tan Tianxing",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "306",
+      "source": "Rowan",
+      "target": "Fei Dongbin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "307",
+      "source": "He Rong",
+      "target": "Jinghan Dynasty",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "308",
+      "source": "Yang Chuantang",
+      "target": "Li Shenglin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "309",
+      "source": "Yang Chuantang",
+      "target": "Liu Shiyu",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "310",
+      "source": "Yang Chuantang",
+      "target": "Zou Tianjing",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "311",
+      "source": "Yang Chuantang",
+      "target": "Li Jiaxiang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "312",
+      "source": "Hou Jianguo",
+      "target": "Dou Xiankang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "313",
+      "source": "Gao Xiang",
+      "target": "Liu Liehong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "314",
+      "source": "Liu Liehong",
+      "target": "Xiao Yaqing",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "315",
+      "source": "Liang Yanshun",
+      "target": "Wu Hansheng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "316",
+      "source": "Liang Huiling",
+      "target": "Tong Jianming",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "317",
+      "source": "Han Jun",
+      "target": "Xiao Yaqing",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "318",
+      "source": "Lan Fu An",
+      "target": "Wang Ruilian",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "319",
+      "source": "Yu Zhongfu",
+      "target": "Ye Zanping",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "320",
+      "source": "Yu Zhongfu",
+      "target": "Zhu Mingchun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "321",
+      "source": "Yu Zhongfu",
+      "target": "Li Wei",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "322",
+      "source": "Yu Zhongfu",
+      "target": "Wu Yirong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "323",
+      "source": "Yu Zhongfu",
+      "target": "Wu Lixin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "324",
+      "source": "Yu Zhongfu",
+      "target": "Wu Pute",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "325",
+      "source": "Yu Zhongfu",
+      "target": "Sharhati Akhan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "326",
+      "source": "Yu Zhongfu",
+      "target": "Shen Jinlong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "327",
+      "source": "Yu Zhongfu",
+      "target": "Shen Zhengchang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "328",
+      "source": "Yu Zhongfu",
+      "target": "Zhang Shougong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "329",
+      "source": "Yu Zhongfu",
+      "target": "Chen Fuli",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "330",
+      "source": "Yu Zhongfu",
+      "target": "Fan Xiaojun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "331",
+      "source": "Yu Zhongfu",
+      "target": "Cheng Lin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "332",
+      "source": "Yu Zhongfu",
+      "target": "Xie Jingrong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "333",
+      "source": "Yu Zhongfu",
+      "target": "The Sixth Jamyang Lobsang Gyalme Thubten Chokyi Nyima",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "334",
+      "source": "Ye Zanping",
+      "target": "Zhu Mingchun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "335",
+      "source": "Ye Zanping",
+      "target": "Wu Yirong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "336",
+      "source": "Ye Zanping",
+      "target": "Wu Lixin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "337",
+      "source": "Ye Zanping",
+      "target": "Wu Pute",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "338",
+      "source": "Ye Zanping",
+      "target": "Shen Jinlong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "339",
+      "source": "Ye Zanping",
+      "target": "Shen Zhengchang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "340",
+      "source": "Ye Zanping",
+      "target": "Zhang Shougong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "341",
+      "source": "Ye Zanping",
+      "target": "Fan Xiaojun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "342",
+      "source": "Ye Zanping",
+      "target": "Cheng Lin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "343",
+      "source": "Ye Zanping",
+      "target": "Xie Jingrong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "344",
+      "source": "Ye Zanping",
+      "target": "The Sixth Jamyang Lobsang Gyalme Thubten Chokyi Nyima",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "345",
+      "source": "Zhu Mingchun",
+      "target": "Chen Fuli",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "346",
+      "source": "Zhu Mingchun",
+      "target": "Zhou Min",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "347",
+      "source": "Zhu Mingchun",
+      "target": "Fresh iron",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "348",
+      "source": "Zhu Mingchun",
+      "target": "Wu Yirong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "349",
+      "source": "Zhu Mingchun",
+      "target": "Wu Lixin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "350",
+      "source": "Zhu Mingchun",
+      "target": "Wu Pute",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "351",
+      "source": "Zhu Mingchun",
+      "target": "Shen Jinlong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "352",
+      "source": "Zhu Mingchun",
+      "target": "Shen Zhengchang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "353",
+      "source": "Zhu Mingchun",
+      "target": "Zhang Shougong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "354",
+      "source": "Zhu Mingchun",
+      "target": "Fan Xiaojun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "355",
+      "source": "Zhu Mingchun",
+      "target": "Cheng Lin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "356",
+      "source": "Zhu Mingchun",
+      "target": "Xie Jingrong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "357",
+      "source": "Zhu Mingchun",
+      "target": "The Sixth Jamyang Lobsang Gyalme Thubten Chokyi Nyima",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "358",
+      "source": "Li Wei",
+      "target": "Qiao Yueshan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "359",
+      "source": "Li Wei",
+      "target": "Wu Yirong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "360",
+      "source": "Li Wei",
+      "target": "Fan Xiaojun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "361",
+      "source": "Wu Yirong",
+      "target": "Wu Pute",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "362",
+      "source": "Wu Yirong",
+      "target": "Shen Jinlong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "363",
+      "source": "Wu Yirong",
+      "target": "Shen Zhengchang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "364",
+      "source": "Wu Yirong",
+      "target": "Zhang Shougong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "365",
+      "source": "Wu Yirong",
+      "target": "Fan Xiaojun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "366",
+      "source": "Wu Yirong",
+      "target": "Xie Jingrong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "367",
+      "source": "Wu Yirong",
+      "target": "The Sixth Jamyang Lobsang Gyalme Thubten Chokyi Nyima",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "368",
+      "source": "Wu Lixin",
+      "target": "Wu Pute",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "369",
+      "source": "Wu Lixin",
+      "target": "Shen Zhengchang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "370",
+      "source": "Wu Lixin",
+      "target": "Zhang Shougong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "371",
+      "source": "Wu Lixin",
+      "target": "Cheng Lin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "372",
+      "source": "Wu Lixin",
+      "target": "The Sixth Jamyang Lobsang Gyalme Thubten Chokyi Nyima",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "373",
+      "source": "Wu Pute",
+      "target": "Shen Jinlong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "374",
+      "source": "Wu Pute",
+      "target": "Shen Zhengchang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "375",
+      "source": "Wu Pute",
+      "target": "Zhang Shougong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "376",
+      "source": "Wu Pute",
+      "target": "Fan Xiaojun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "377",
+      "source": "Wu Pute",
+      "target": "Cheng Lin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "378",
+      "source": "Wu Pute",
+      "target": "Xie Jingrong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "379",
+      "source": "Wu Pute",
+      "target": "The Sixth Jamyang Lobsang Gyalme Thubten Chokyi Nyima",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "380",
+      "source": "Sharhati Akhan",
+      "target": "An Zhaoqing",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "381",
+      "source": "Sharhati Akhan",
+      "target": "Chen Fuli",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "382",
+      "source": "Sharhati Akhan",
+      "target": "Fan Xiaojun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "383",
+      "source": "Sharhati Akhan",
+      "target": "Xie Jingrong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "384",
+      "source": "Shen Jinlong",
+      "target": "Shen Zhengchang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "385",
+      "source": "Shen Jinlong",
+      "target": "Zhang Shougong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "386",
+      "source": "Shen Jinlong",
+      "target": "Fan Xiaojun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "387",
+      "source": "Shen Jinlong",
+      "target": "Xie Jingrong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "388",
+      "source": "Shen Jinlong",
+      "target": "The Sixth Jamyang Lobsang Gyalme Thubten Chokyi Nyima",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "389",
+      "source": "Shen Zhengchang",
+      "target": "Zhang Shougong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "390",
+      "source": "Shen Zhengchang",
+      "target": "Fan Xiaojun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "391",
+      "source": "Shen Zhengchang",
+      "target": "Cheng Lin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "392",
+      "source": "Shen Zhengchang",
+      "target": "Xie Jingrong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "393",
+      "source": "Shen Zhengchang",
+      "target": "The Sixth Jamyang Lobsang Gyalme Thubten Chokyi Nyima",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "394",
+      "source": "Zhang Shougong",
+      "target": "Luo Qi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "395",
+      "source": "Zhang Shougong",
+      "target": "Shen Hongbing",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "396",
+      "source": "Zhang Shougong",
+      "target": "Fan Xiaojun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "397",
+      "source": "Zhang Shougong",
+      "target": "Cheng Lin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "398",
+      "source": "Zhang Shougong",
+      "target": "Xie Jingrong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "399",
+      "source": "Zhang Shougong",
+      "target": "The Sixth Jamyang Lobsang Gyalme Thubten Chokyi Nyima",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "400",
+      "source": "Chen Fuli",
+      "target": "Deng Xiuxin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "401",
+      "source": "Chen Fuli",
+      "target": "Li Yongqi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "402",
+      "source": "Chen Fuli",
+      "target": "Zhou Min",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "403",
+      "source": "Chen Fuli",
+      "target": "Fresh iron",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "404",
+      "source": "Chen Fuli",
+      "target": "Luo Qi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "405",
+      "source": "Chen Fuli",
+      "target": "Bo Qingyun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "406",
+      "source": "Chen Fuli",
+      "target": "Zhongshan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "407",
+      "source": "Chen Fuli",
+      "target": "Xie Jingrong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "408",
+      "source": "Fan Xiaojun",
+      "target": "Xie Jingrong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "409",
+      "source": "Fan Xiaojun",
+      "target": "The Sixth Jamyang Lobsang Gyalme Thubten Chokyi Nyima",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "410",
+      "source": "Cheng Lin",
+      "target": "The Sixth Jamyang Lobsang Gyalme Thubten Chokyi Nyima",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "411",
+      "source": "Xie Jingrong",
+      "target": "The Sixth Jamyang Lobsang Gyalme Thubten Chokyi Nyima",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "412",
+      "source": "Wang Zhimin",
+      "target": "Du Jiahao",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "413",
+      "source": "Wang Zhimin",
+      "target": "Li Jiheng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "414",
+      "source": "Wang Zhimin",
+      "target": "Lou Qinjian",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "415",
+      "source": "Wang Zhimin",
+      "target": "Lu Xinshe",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "416",
+      "source": "Wang Zhimin",
+      "target": "Jiang Chaoliang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "417",
+      "source": "Wang Zhimin",
+      "target": "Xu Shaoshi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "418",
+      "source": "Wang Zhimin",
+      "target": "Liu Jiayi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "419",
+      "source": "Du Jiahao",
+      "target": "Lu Xinshe",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "420",
+      "source": "Li Jiheng",
+      "target": "Lu Xinshe",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "421",
+      "source": "Lou Qinjian",
+      "target": "Li Yizhong",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "422",
+      "source": "Lou Qinjian",
+      "target": "Lu Xinshe",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "423",
+      "source": "Lou Qinjian",
+      "target": "Liu Jiayi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "424",
+      "source": "Lu Xinshe",
+      "target": "Li Jinbin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "425",
+      "source": "Lu Xinshe",
+      "target": "Xu Shaoshi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "426",
+      "source": "Lu Xinshe",
+      "target": "Jiang Chaoliang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "427",
+      "source": "Lu Xinshe",
+      "target": "Liu Jiayi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "428",
+      "source": "Jiang Chaoliang",
+      "target": "Fu Ziying",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "429",
+      "source": "Jiang Chaoliang",
+      "target": "Xiao Gang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "430",
+      "source": "Wang Chao",
+      "target": "Fu Ziying",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "431",
+      "source": "Fu Ziying",
+      "target": "Shi Guangsheng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "432",
+      "source": "Wang Ruihe",
+      "target": "Liu Xiuwen",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "433",
+      "source": "Wang Ruihe",
+      "target": "Cheng Jing",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "434",
+      "source": "Wang Ruihe",
+      "target": "Ran Bo",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "435",
+      "source": "Wang Ruihe",
+      "target": "Du Xiaoguang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "436",
+      "source": "Wang Ruihe",
+      "target": "Wang Tiemin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "437",
+      "source": "Wang Ruihe",
+      "target": "Nobuharu hawk",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "438",
+      "source": "Wang Ruihe",
+      "target": "Qin Shengxiang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "439",
+      "source": "Liu Xiuwen",
+      "target": "Xu Anbiao",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "440",
+      "source": "Liu Xiuwen",
+      "target": "Guo Zhenhua",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "441",
+      "source": "Liu Xiuwen",
+      "target": "Cheng Jing",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "442",
+      "source": "Ran Bo",
+      "target": "Du Xiaoguang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "443",
+      "source": "Ran Bo",
+      "target": "Wang Tiemin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "444",
+      "source": "Du Xiaoguang",
+      "target": "Wang Tiemin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "445",
+      "source": "Du Xiaoguang",
+      "target": "Qin Shengxiang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "446",
+      "source": "Wang Tiemin",
+      "target": "Qin Shengxiang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "447",
+      "source": "Wang Tiemin",
+      "target": "Zhou Yaning",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "448",
+      "source": "Nobuharu hawk",
+      "target": "He Ping",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "449",
+      "source": "Nobuharu hawk",
+      "target": "Zhou Guangquan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "450",
+      "source": "Nobuharu hawk",
+      "target": "Qin Shengxiang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "451",
+      "source": "Nobuharu hawk",
+      "target": "Zhou Yaning",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "452",
+      "source": "Qin Shengxiang",
+      "target": "Zhou Yaning",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "453",
+      "source": "Zhongshan",
+      "target": "Deng Xiuxin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "454",
+      "source": "Zhongshan",
+      "target": "Luo Qi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "455",
+      "source": "Zhongshan",
+      "target": "Bo Qingyun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "456",
+      "source": "Zhongshan",
+      "target": "Wang Shouwen",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "457",
+      "source": "Zhongshan",
+      "target": "Yu Jianhua",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "458",
+      "source": "Zhongshan",
+      "target": "Fresh iron",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "459",
+      "source": "Deng Xiuxin",
+      "target": "Luo Qi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "460",
+      "source": "Deng Xiuxin",
+      "target": "Bo Qingyun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "461",
+      "source": "Deng Xiuxin",
+      "target": "Fresh iron",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "462",
+      "source": "Luo Qi",
+      "target": "Shen Hongbing",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "463",
+      "source": "Luo Qi",
+      "target": "Bo Qingyun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "464",
+      "source": "Luo Qi",
+      "target": "Fresh iron",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "465",
+      "source": "Bo Qingyun",
+      "target": "Fresh iron",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "466",
+      "source": "Fresh iron",
+      "target": "Zhou Min",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "467",
+      "source": "Lu Caixia",
+      "target": "Cao Hongming",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "468",
+      "source": "Xu Anbiao",
+      "target": "Huang Junhua",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "469",
+      "source": "Jiang Tianliang",
+      "target": "An Zhaoqing",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "470",
+      "source": "Yasuyoshi",
+      "target": "Hetjie",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "471",
+      "source": "Yasuyoshi",
+      "target": "Sun Jusheng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "472",
+      "source": "Li Jinghai",
+      "target": "Bao Xinhe",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "473",
+      "source": "Yan Ke",
+      "target": "Ding Laihang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "474",
+      "source": "Qiao Yueshan",
+      "target": "Wang Xinzhe",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "475",
+      "source": "Lin Rui",
+      "target": "Zhao Changhua",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "476",
+      "source": "Zhao Changhua",
+      "target": "Liu Haitao",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "477",
+      "source": "Zhao Changhua",
+      "target": "Li Junjie",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "478",
+      "source": "Qianqian",
+      "target": "Wu Kongming",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "479",
+      "source": "Xu Xiao",
+      "target": "He Junke",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "480",
+      "source": "Hao Junhui",
+      "target": "Xu Jiaai",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "481",
+      "source": "Hao Junhui",
+      "target": "Zhao Jing",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "482",
+      "source": "Liu Zhongli",
+      "target": "Niu Maosheng",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "483",
+      "source": "Liu Haitao",
+      "target": "Li Junjie",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "484",
+      "source": "Li Shenglin",
+      "target": "Zhao Chongjiu",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "485",
+      "source": "Li Liangsheng",
+      "target": "Tsai Tuanjie",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "486",
+      "source": "Li Liangsheng",
+      "target": "Xu Chengguang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "487",
+      "source": "Tsai Tuanjie",
+      "target": "Xu Chengguang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "488",
+      "source": "Royal Seat",
+      "target": "Chen Min",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "489",
+      "source": "Hu Zejun",
+      "target": "Gao Changli",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "490",
+      "source": "Hu Zejun",
+      "target": "Feng Zhenglin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "491",
+      "source": "Liao Xiyuan",
+      "target": "Zhang Xingwang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "492",
+      "source": "Li Tieying",
+      "target": "Zeng Peiyan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "493",
+      "source": "Cao Gangchuan",
+      "target": "Liang Guanglie",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "494",
+      "source": "Guo Tingting",
+      "target": "Li Fei",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "495",
+      "source": "Wu Aiying",
+      "target": "Zhang Jun",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "496",
+      "source": "Liu Zhonghua",
+      "target": "Cong Bin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "497",
+      "source": "Zhu Zhixin",
+      "target": "Qiu Xiaohua",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "498",
+      "source": "Qiu Xiaohua",
+      "target": "Xu Yifan",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "499",
+      "source": "Sun Jianli",
+      "target": "Yan Qinghui",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "500",
+      "source": "Jiang Jianguo",
+      "target": "Yang Guorui",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "501",
+      "source": "Jiang Jianguo",
+      "target": "Nie Chenxi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "502",
+      "source": "Yang Guorui",
+      "target": "Nie Chenxi",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "503",
+      "source": "Nie Chenxi",
+      "target": "Zhang Pimin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "504",
+      "source": "Li Zijun",
+      "target": "Li Wenzhang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "505",
+      "source": "Chen Ronghui",
+      "target": "Shen Zhulin",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "506",
+      "source": "Zhang Xin",
+      "target": "Zhao Gang",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "507",
+      "source": "Tan Guangming",
+      "target": "Yan Zhen",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    },
+    {
+      "key": "508",
+      "source": "Tan Guangming",
+      "target": "Wang Zhigao",
+      "attributes": {
+        "weight": 1.0,
+        "0": "colleagues",
+        "1": "colleagues"
+      }
+    }
+  ]
+}

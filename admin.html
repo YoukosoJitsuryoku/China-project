@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style2.css">
+    <link rel="shortcut icon" href="./china.jpg" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Администрация</title>
+</head>
+<body>
+    <header class="header">
+        <div class="logo">
+          <img src="china.jpg" alt="Логотип сайта" />
+          <h1>Chinese leaders</h1>
+        </div>
+        <nav class="nav">
+          <a href="index.html">Главная</a>
+          <a href="about.html">О сайте</a>
+          <a href="admin.html">Администрация</a>
+        </nav>
+      </header>
+    <main id="admin-list">
+        <!-- Карточки людей будут добавлены сюда -->
+    </main>
+    <footer class="footer">
+        <p class="footer-text"> © 2024 China Project. Все права защищены.</p>
+      </footer>
+
+    <script>
+    Promise.all([
+    fetch('cleaned_raw_data_translated.json').then(res => res.json()),
+    fetch('baidu.json').then(res => res.json())
+])
+.then(([cleanedData, graphData]) => {
+    const cleaned = cleanedData.Sheet1;
+    const graphNodes = graphData.nodes;
+
+    // Сопоставляем `key` из baidu.json с `name_eng` из cleaned_raw_data_translated.json
+    const validKeys = new Set(graphNodes.map(node => node.key));
+    const filteredData = cleaned.filter(person => validKeys.has(person.name_eng));
+
+    // Группируем записи по `name_eng` и выбираем последнюю запись
+    const groupedByPerson = filteredData.reduce((acc, entry) => {
+        const name = entry.name_eng;
+
+        // Если имя уже есть, просто заменяем его новой записью
+        acc[name] = entry;
+        return acc;
+    }, {});
+
+    const uniquePeople = Object.values(groupedByPerson);
+
+    // Отображаем карточки только для тех, кто есть в обеих базах данных
+    const adminList = d3.select("#admin-list");
+
+    adminList.selectAll(".admin-card")
+        .data(uniquePeople)
+        .enter()
+        .append("a") // Оборачиваем карточку в ссылку
+        .attr("href", d => `admin_node.html?id=${encodeURIComponent(d.name_eng)}`)
+        .attr("class", "admin-card")
+        .style("display", "flex")
+        .style("align-items", "center")
+        .style("border", "1px solid #ddd")
+        .style("border-radius", "8px")
+        .style("margin-bottom", "15px")
+        .style("padding", "10px")
+        .style("background", "#f9f9f9")
+        .style("text-decoration", "none")
+        .style("color", "inherit")
+        .each(function(d) {
+            const card = d3.select(this);
+
+            // Добавляем изображение
+            card.append("img")
+                .attr("src", "https://via.placeholder.com/70") // Замените на реальный URL фото, если доступно
+                .attr("alt", d.name_ru)
+                .style("width", "70px")
+                .style("height", "70px")
+                .style("border-radius", "50%")
+                .style("margin-right", "15px");
+
+            // Добавляем информацию
+            const info = card.append("div").attr("class", "info");
+
+            // Имя на русском и китайском
+            info.append("h3")
+                .html(`${d.name_eng} (${d.name_zh || 'Нет данных'})`)
+                .style("margin", "0")
+                .style("font-size", "18px");
+
+            // Отображаем только последнюю строку из raw_text_ru
+            info.append("p")
+                .text(`Должность: ${d.raw_text_ru || 'Нет данных'}`)
+                .style("margin", "5px 0 0")
+                .style("color", "#555")
+                .style("font-size", "14px")
+                .style("text-align", "left");
+        });
+})
+.catch(error => {
+    console.error('Ошибка загрузки данных:', error);
+    const adminList = d3.select("#admin-list");
+    adminList.append("p")
+        .text("Не удалось загрузить данные. Пожалуйста, попробуйте позже.")
+        .style("color", "red");
+});
+
+    </script>
+</body>
+</html>
